@@ -14,6 +14,7 @@ public class Principal {
         coche1.setPotencia(90);
 
         coche1.pintarInformation();
+        System.out.println("jjss");
 
         Coche coche2 = new Coche("2323CDC","Mercedes","Azul",120);
         coche2.pintarInformation();
